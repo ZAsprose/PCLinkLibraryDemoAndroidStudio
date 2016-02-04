@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\PCLinkLibrary_Android_v1.2.7\sample demo\demo source code\PCLinkLibraryDemoAndroidStudio\app\libs\mysql-connector-java-5.0.8-bin.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7b9bfb6c4e4885660378a9c13330915c321f6cca">
+        <dex dex="E:\PCLinkLibrary_Android_v1.2.7\sample demo\demo source code\PCLinkLibraryDemoAndroidStudio\app\build\intermediates\pre-dexed\debug\mysql-connector-java-5.0.8-bin-9ec87ed85de39a06c1ced2637ea8659b97862bed.jar" />
+    </item>
+
+</items>
